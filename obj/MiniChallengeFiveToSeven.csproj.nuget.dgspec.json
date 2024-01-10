@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tommy\\Desktop\\CodeStack Academy 23-24\\Challenges\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj": {}
+    "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\week 2\\assignments\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tommy\\Desktop\\CodeStack Academy 23-24\\Challenges\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj": {
+    "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\week 2\\assignments\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tommy\\Desktop\\CodeStack Academy 23-24\\Challenges\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
+        "projectUniqueName": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\week 2\\assignments\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
         "projectName": "MiniChallengeFiveToSeven",
-        "projectPath": "C:\\Users\\tommy\\Desktop\\CodeStack Academy 23-24\\Challenges\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
-        "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tommy\\Desktop\\CodeStack Academy 23-24\\Challenges\\MiniChallengeFiveToSeven\\obj\\",
+        "projectPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\week 2\\assignments\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
+        "packagesPath": "C:\\Users\\sinat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinat\\OneDrive\\Documents\\CodeStack_23-24\\level 2\\week 2\\assignments\\MiniChallengeFiveToSeven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tommy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sinat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
