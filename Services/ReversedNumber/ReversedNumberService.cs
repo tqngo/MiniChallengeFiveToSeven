@@ -15,7 +15,7 @@ public class ReversedNumberService : IReversedNumberService
                 word += numbahs[i];
 
             }
-            return word;
+            return $"You entered {numbahs}, reversed is {word}";
         }
         else
         {

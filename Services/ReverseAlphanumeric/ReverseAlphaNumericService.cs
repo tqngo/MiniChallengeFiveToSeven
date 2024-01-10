@@ -16,6 +16,6 @@ public class ReverseAlphaNumericService : IReverseAlphanumericService
             word += backwards[i];
 
         }
-        return word;
+        return $"You entered {backwards}, reversed is {word}";
     }
 }
